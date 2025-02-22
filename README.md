@@ -1,8 +1,18 @@
-# React + Vite
+🚀 Completed Task 2: Movie Website Development using ReactJS! 🎬✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm excited to share that I have successfully built a feature-rich Movie App using ReactJS, integrated with the OMDb API for dynamic movie data. 🔥
 
-Currently, two official plugins are available:
+🛠 Key Features:
+✅ Real-time Search – Users can search for movies by title 🎥
+✅ Movie Listing – Fetches and displays movies dynamically 📌
+✅ Detailed Movie Info – Displays title, poster, and release year 🗂️
+✅ Responsive UI – Styled with CSS for a sleek and mobile-friendly design 🎨
+✅ API Integration – Fetching data seamlessly from OMDb API 🌍
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚙️ Tech Stack:
+💻 Frontend: ReactJS
+🎨 Styling: CSS
+🌐 API: OMDb API
+📦 State Management: React Hooks (useState, useEffect)
+
+It was an amazing experience implementing React best practices and learning more about API handling. Looking forward to building more exciting projects! 🚀
